@@ -76,7 +76,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/njacob1001/rich-ckeditor-build.git",
+    "url": "https://github.com/njacob1001/ckeditor5.git",
     "directory": "packages/ckeditor5-build-classic"
   },
   "scripts": {
